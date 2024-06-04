@@ -3,4 +3,4 @@
 
 *- pillar chase 2*
 #
-***discord.gg/5fSmyBFBq8***
+discord.gg/5fSmyBFBq8
