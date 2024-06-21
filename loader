@@ -2,4 +2,6 @@ if game.PlaceId == 16560655288 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wxrpq/ritual/main/scripts/pillarchase2.lua"))()
 elseif game.PlaceId == 4580204640 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wxrpq/ritual/main/scripts/survivethekiller.lua"))()
+elseif game.PlaceId == 6375883252 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wxrpq/ritual/main/scripts/survivethekiller.lua"))()
 end
