@@ -4,4 +4,6 @@ elseif game.PlaceId == 4580204640 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wxrpq/ritual/main/scripts/survivethekiller.lua"))()
 elseif game.PlaceId == 6375883252 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wxrpq/ritual/main/scripts/trepidation.lua"))()
+elseif game.PlaceId == 12407250267 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wxrpq/ritual/main/scripts/keys.lua"))()
 end
